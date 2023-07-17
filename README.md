@@ -7,14 +7,14 @@ Abstract:
 In this project, we aim to develop a robust multimedia information retrieval and recommendation engine that leverages advanced technologies to efficiently process and analyze multimedia data, such as images, videos, and audio files. The engine will utilize state-of-the-art techniques in machine learning, natural language processing, and computer vision to provide accurate search results and personalized recommendations based on user preferences. By combining the power of multimedia analysis and recommendation algorithms, our engine will enhance the user experience by delivering relevant and engaging content.
 
 Table of Contents
-Introduction
-Data Collection and Preprocessing
-Multimedia Information Retrieval
-Recommendation Engine
-User Interface and Experience
-Evaluation and Performance Metrics
-Deployment and Future Work
-Conclusion
+- Introduction
+- Data Collection and Preprocessing
+- Multimedia Information Retrieval
+- Recommendation Engine
+- User Interface and Experience
+- Evaluation and Performance Metrics
+- Deployment and Future Work
+- Conclusion
 
 Introduction<a name="introduction"></a>
 Information retrieval and recommendation systems play a crucial role in today's digital age. However, existing systems predominantly focus on text-based data, neglecting the immense potential of multimedia content. To bridge this gap, we propose the development of a multimedia information retrieval and recommendation engine that can process and interpret various media types, enabling users to explore and discover content more effectively.
