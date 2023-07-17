@@ -3,7 +3,7 @@ Multimedia Information Retrieval and Recommendation Engine
 
 
 Developing a Multimedia Information Retrieval and Recommendation Engine
-Abstract:
+## Abstract:
 In this project, we aim to develop a robust multimedia information retrieval and recommendation engine that leverages advanced technologies to efficiently process and analyze multimedia data, such as images, videos, and audio files. The engine will utilize state-of-the-art techniques in machine learning, natural language processing, and computer vision to provide accurate search results and personalized recommendations based on user preferences. By combining the power of multimedia analysis and recommendation algorithms, our engine will enhance the user experience by delivering relevant and engaging content.
 
 Table of Contents
